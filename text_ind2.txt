@@ -1,0 +1,3 @@
+This is a sample text file used for testing purposes.
+It contains various words of different lengths, including numbers and punctuation.
+The longest word in this file is 'testingpurposes', which has 15 characters.
